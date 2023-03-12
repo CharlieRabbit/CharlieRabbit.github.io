@@ -12,7 +12,7 @@
 2. _**Liberty = Harm Principle**_
 3. _**Pursuit of Happiness = Free Markets**_
 
-&#x20;   **(b) Judicial Check - Establishing legislation requires passing a judicial review**
+&#x20;   **(b) Judicial Legislative Review - Establishing legislation requires passing a judicial legislative review**
 
 &#x20;   **(c) Trinity Separation of Powers**
 
