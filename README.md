@@ -24,11 +24,13 @@
 2. _**State**_
 3. _**Federal**_&#x20;
 
-### II. Confederal Equal Protection Law: No Discrimination by Race, Ethnicity, Religion, Gender, Sexual Identity
+### II. Presidential versus Parliamentary; Bicameral Legislature : Senate & House
 
-### III. **Judicial Legislative Review - Establishing legislation requires passing a judicial legislative review**
+### III. Confederal Equal Protection Law: No Discrimination by Race, Ethnicity, Religion, Gender, Sexual Identity
 
-### IV. Trinity Confederal Powers  &#x20;
+### IV. **Judicial Legislative Review - Establishing legislation requires passing a judicial legislative review**
+
+### V. Trinity Confederal Powers  &#x20;
 
 #### &#x20;   (a) Parish Powers:
 
@@ -48,7 +50,7 @@
 2. _**Interstate Commerce**_
 3. _**Military**_&#x20;
 
-### V. Foreign Policy Objective: Spread through intervention&#x20;
+### VI. Foreign Policy Objective: Spread through intervention&#x20;
 
 #### &#x20;   (a) Humanitarian Just War Theory&#x20;
 
