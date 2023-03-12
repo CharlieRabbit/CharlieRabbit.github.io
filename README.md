@@ -24,7 +24,7 @@
 2. _**State**_
 3. _**Federal**_&#x20;
 
-### II. Presidential versus Parliamentary; Bicameral Legislature : Senate & House
+### II. Presidential versus Parliamentary; Bicameral Legislature • Senate & House
 
 ### III. Confederal Equal Protection Law: No Discrimination by Race, Ethnicity, Religion, Gender, Sexual Identity
 
