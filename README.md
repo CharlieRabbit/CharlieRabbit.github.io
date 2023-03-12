@@ -24,7 +24,7 @@
 2. _**State**_
 3. _**Federal**_&#x20;
 
-### II. Confederal Law against Discrimination: Race, Ethnicity, Religion, Sexual Indentity
+### II. Confederal Law against Discrimination: Race, Ethnicity, Religion, Sexual Identity
 
 ### III. **Judicial Legislative Review - Establishing legislation requires passing a judicial legislative review**
 
