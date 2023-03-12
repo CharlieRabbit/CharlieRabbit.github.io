@@ -1,5 +1,7 @@
 # Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>
 
+<figure><img src=".gitbook/assets/tri-tris.png" alt=""><figcaption><p>Trinity of Trinities</p></figcaption></figure>
+
 ## :: Neoliberal Interventionist Confederal Constitutional Republic \<NICCR> ::
 
 ### I. Socially Liberal&#x20;
