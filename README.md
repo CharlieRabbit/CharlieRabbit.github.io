@@ -12,15 +12,13 @@
 2. _**Liberty = Harm Principle**_
 3. _**Pursuit of Happiness = Free Markets**_
 
-&#x20;   **(b) Judicial Legislative Review - Establishing legislation requires passing a judicial legislative review**
-
-&#x20;   **(c) Trinity Separation of Powers**
+&#x20;   **(b) Trinity Separation of Powers**
 
 1. _**Executive**_
 2. _**Judicial**_
 3. _**Legislative**_
 
-&#x20;   **(d) Trinity Confederal Structure**
+&#x20;   **(c) Trinity Confederal Structure**
 
 1. _**Parish**_
 2. _**State**_
@@ -28,7 +26,9 @@
 
 ### II. Confederal Law against Discrimination: Race, Ethnicity, Religion, Sexual Indentity
 
-### II. Trinity Confederal Powers  &#x20;
+### III. **Judicial Legislative Review - Establishing legislation requires passing a judicial legislative review**
+
+### IV. Trinity Confederal Powers  &#x20;
 
 #### &#x20;   (a) Parish Powers:
 
@@ -48,7 +48,7 @@
 2. _**Interstate Commerce**_
 3. _**Military**_&#x20;
 
-### III. Foreign Policy Objective: Spread through intervention&#x20;
+### V. Foreign Policy Objective: Spread through intervention&#x20;
 
 #### &#x20;   (a) Humanitarian Just War Theory&#x20;
 
