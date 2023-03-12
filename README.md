@@ -28,7 +28,7 @@
 
 ### I. Socially Liberal&#x20;
 
-### II.Economically Conservative&#x20;
+### II. Economically Conservative&#x20;
 
 ### III. Trinity Confederal Structure  &#x20;
 
