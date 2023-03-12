@@ -8,19 +8,19 @@
 
 ### III. Con-federal Structure&#x20;
 
-#### (a) Federal Powers:
+#### &#x20;   (a) Federal Powers:
 
 1. Diplomacy
 2. Interstate Commerce
 3. Military&#x20;
 
-#### (b) State Powers:
+#### &#x20;   (b) State Powers:
 
 1. Industry and Trade
 2. Education
 3. Environment&#x20;
 
-#### (c) Parish Powers:
+#### &#x20;   (c) Parish Powers:
 
 1. Primary Taxation Authority
 2. Social Contract
@@ -28,10 +28,10 @@
 
 ### IV. Foreign Policy Objective: Spread through intervention&#x20;
 
-#### (a) Humanitarian Just War Theory&#x20;
+#### &#x20;   (a) Humanitarian Just War Theory&#x20;
 
-#### (b) US Declaration of Independence [_\<Life, Liberty, Pursu_](#user-content-fn-1)[^1]it of Happiness>
+#### &#x20;   (b) US Declaration of Independence [_\<Life, Liberty, Pursu_](#user-content-fn-1)[^1]it of Happiness>
 
-#### (c) Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>
+#### &#x20;   (c) Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>
 
 [^1]: 
