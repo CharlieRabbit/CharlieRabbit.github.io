@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Civil Code](README.md)
-* [Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>](neoliberal-interventionist-confederal-constitutional-republic-less-than-niccr-greater-than.md)
+* [Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>](README.md)
+* [Civil Code](<README (1).md>)
