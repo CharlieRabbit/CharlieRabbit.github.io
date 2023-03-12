@@ -4,7 +4,7 @@
 
 ## :: Neoliberal Interventionist Confederal Constitutional Republic \<NICCR> ::
 
-### Nulla. Root Principles
+### I. Root Principles
 
 &#x20;   **(a) Unalienable Rights**
 
@@ -24,13 +24,11 @@
 
 1. _**Parish**_
 2. _**State**_
-3. _**Federal**_
+3. _**Federal**_&#x20;
 
-### I. Socially Liberal&#x20;
+### II. Confederal Law against Discrimination: Race, Ethnicity, Religion, Sexual Indentity
 
-### II. Economically Conservative&#x20;
-
-### III. Trinity Confederal Structure  &#x20;
+### II. Trinity Confederal Powers  &#x20;
 
 #### &#x20;   (a) Parish Powers:
 
@@ -50,7 +48,7 @@
 2. _**Interstate Commerce**_
 3. _**Military**_&#x20;
 
-### IV. Foreign Policy Objective: Spread through intervention&#x20;
+### III. Foreign Policy Objective: Spread through intervention&#x20;
 
 #### &#x20;   (a) Humanitarian Just War Theory&#x20;
 
