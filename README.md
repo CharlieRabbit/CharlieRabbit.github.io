@@ -4,29 +4,51 @@
 
 ## :: Neoliberal Interventionist Confederal Constitutional Republic \<NICCR> ::
 
+### Nulla. Root Principles
+
+&#x20;   **(a) Unalienable Rights**
+
+1. _**Life = Social Contract**_
+2. _**Liberty = Harm Principle**_
+3. _**Pursuit of Happiness = Free Markets**_
+
+&#x20;   **(b) Judicial Check - Establishing legislation requires passing a judicial review**
+
+&#x20;   **(c) Trinity Separation of Powers**
+
+1. _**Executive**_
+2. _**Judicial**_
+3. _**Legislative**_
+
+&#x20;   **(d) Trinity Confederal Structure**
+
+1. _**Parish**_
+2. _**State**_
+3. _**Federal**_
+
 ### I. Socially Liberal&#x20;
 
 ### II.Economically Conservative&#x20;
 
-### III. Con-federal Structure&#x20;
+### III. Trinity Confederal Structure  &#x20;
 
-#### &#x20;   (a) Federal Powers:
+#### &#x20;   (a) Parish Powers:
 
-1. Diplomacy
-2. Interstate Commerce
-3. Military&#x20;
+1. _**Primary Taxation Authority**_
+2. _**Social Contract**_
+3. _**Economic Development**_
 
 #### &#x20;   (b) State Powers:
 
-1. Industry and Trade
-2. Education
-3. Environment&#x20;
+1. _**Industry and Trade**_
+2. _**Education**_
+3. _**Environment**_&#x20;
 
-#### &#x20;   (c) Parish Powers:
+#### &#x20;   (c) Federal Powers:
 
-1. Primary Taxation Authority
-2. Social Contract
-3. Economic Development&#x20;
+1. _**Diplomacy**_
+2. _**Interstate Commerce**_
+3. _**Military**_&#x20;
 
 ### IV. Foreign Policy Objective: Spread through intervention&#x20;
 
