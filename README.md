@@ -1,4 +1,4 @@
-# Confederal Republic \<CR>
+# 🐰 .          Confederal Republic \<CR>        .
 
 <figure><img src=".gitbook/assets/tri-tris.png" alt=""><figcaption><p>Trinity of Trinities</p></figcaption></figure>
 
