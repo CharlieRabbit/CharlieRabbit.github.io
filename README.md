@@ -1,8 +1,8 @@
-# Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>
+# Confederal Republic \<CR>
 
 <figure><img src=".gitbook/assets/tri-tris.png" alt=""><figcaption><p>Trinity of Trinities</p></figcaption></figure>
 
-## :: Neoliberal Interventionist Confederal Constitutional Republic \<NICCR> ::
+## :: Confederal Republic \<CR> ::
 
 ### I. Root Principles
 
@@ -14,7 +14,7 @@
 
 &#x20;   **(b) Trinity Separation of Powers**
 
-1. _**Executive**_
+1. _**Executive**_&#x20;
 2. _**Judicial**_
 3. _**Legislative**_
 
@@ -35,8 +35,19 @@
 #### &#x20;   (a) Parish Powers:
 
 1. _**Primary Taxation Authority**_
+   * $12.5 trillion 2020 total AGI, in \<CR>
+   * 13.26% interest, but we'll go with 11.1%, totalling 13.5% with Zakat Tax and short the Consumption taxes.
+   * $1.3875 trillion confederal tax revenue in \<CR>
+   * $27.75 billion tax revenue per state, collected at 11.1% from within each Parish.
+   * Parishz Pay CR dues: 1/3rd from each Parish to the State
+   * **$9.1575 billion** tax revenue per **State**
+   * States Pay CR dues: 1/3rd from each State to the Confederal Republic \<CR>
+   * 52 States, including DC and Puerto Rico, ...
+   * **$476.19 billion** to the **Confederal Republic**, but Debts and Assets\&Liabilities have been reapportioned.
 2. _**Social Contract**_
+   * _**2.5% Zakat Tax on wealth.** Total tax is 13.5% tax._
 3. _**Economic Development**_
+   * _Consumption tax is reinvested into Development._
 
 #### &#x20;   (b) State Powers:
 
@@ -56,6 +67,6 @@
 
 #### &#x20;   (b) US Declaration of Independence [_\<Life, Liberty, Pursu_](#user-content-fn-1)[^1]it of Happiness>
 
-#### &#x20;   (c) Neoliberal Interventionist Confederal Constitutional Republic \<NICCR>
+#### &#x20;   (c) Confederal Republic \<CR>
 
 [^1]: 
