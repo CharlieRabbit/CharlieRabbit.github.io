@@ -35,6 +35,7 @@
 #### &#x20;   (a) Parish Powers:
 
 1. _**Primary Taxation Authority**_
+   * _**\<Con/Federal tax comparion: 2020 USA $1.65 trillion; 2025 USACR $1.6 trillion>**_
    * **$12.5 trillion 2020 total AGI**, in <**USA**>
    * $250 billion 2020 AGI per State, 50 States
    * **13.26%** average 2020 tax rate
