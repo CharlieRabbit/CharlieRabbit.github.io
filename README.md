@@ -35,17 +35,17 @@
 #### &#x20;   (a) Parish Powers:
 
 1. _**Primary Taxation Authority**_
-   * **$12.5 trillion 2020 total AGI**, in \<CR>
+   * **$12.5 trillion 2020 total AGI**, in <**USA**>
    * $250 billion 2020 AGI per State, 50 States
    * **13.26%** average 2020 tax rate
    * **$33.15 billion** 2020 tax revenue per State
    * We'll go with **11.1%** **Parish** AGI **tax** **rate**
    * **$27.75 billion** 2025 **Parish** tax revenue, per State.
-   * **$1.39 trillion** <mark style="color:green;">**TOTAL**</mark> 2025 Tax Revenue throughout **Confederal Republic**
+   * **$1.39 trillion** <mark style="color:green;">**TOTAL**</mark> 2025 Tax Revenue throughout **USA Confederal Republic**
    * <mark style="color:red;">**$18.6 billion**</mark> 2025 <mark style="color:red;">Parish</mark> tax revenue, 2/3rds revenue **retained** by each **Parish**, per State.
    * _<mark style="color:yellow;">**`$9.16 billion`**</mark>_ 2025 <mark style="color:yellow;">**State**</mark> Dues, 1/3rd dues to the State, per State
-   * **$3.02 billion** 2025 **Confederal** Dues, 1/3rd State Dues to **Confederal Republic**, per State
-   * _<mark style="color:purple;">**`$157 billion`**</mark>_ 2025 <mark style="color:green;">**TOTAL**</mark>**  **<mark style="color:purple;">**Confederal Republic Dues**</mark>.
+   * **$3.02 billion** 2025 **Confederal** Dues, 1/3rd State Dues to **USA Confederal Republic**, per State
+   * _<mark style="color:purple;">**`$157 billion`**</mark>_ 2025 <mark style="color:green;">**TOTAL**</mark>**  **<mark style="color:purple;">**USA Confederal Republic Dues**</mark>.
 2. _**Social Contract**_
    * _**2.5% Zakat Tax on wealth.** Total tax is 13.5% tax._
 3. _**Economic Development**_
