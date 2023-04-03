@@ -46,6 +46,10 @@
    * _<mark style="color:yellow;">**`$9.16 billion`**</mark>_ 2025 <mark style="color:yellow;">**State**</mark> Dues, 1/3rd dues to the State, per State
    * **$3.02 billion** 2025 **Confederal** Dues, 1/3rd State Dues to **USA Confederal Republic**, per State
    * _<mark style="color:purple;">**`$157 billion`**</mark>_ 2025 <mark style="color:green;">**TOTAL**</mark>**  **<mark style="color:purple;">**USA Confederal Republic Dues**</mark>.
+   * <mark style="color:green;">**Summary: $1.6 trillion TOTAL Tax Revenues**</mark>
+     * **$966 billion = **<mark style="color:orange;">**52 States X**</mark>** **<mark style="color:red;">**$18.6 billion**</mark> **2025** <mark style="color:red;">**Parish**</mark> tax revenue
+     * **$476 billion = 52 States X $9.16 billion 2025 State Dues.**&#x20;
+     * _<mark style="color:purple;">**`$157 billion`**</mark>_ 2025 <mark style="color:green;">**TOTAL**</mark>**  **<mark style="color:purple;">**USA Confederal Republic Dues**</mark>.
 2. _**Social Contract**_
    * _**2.5% Zakat Tax on wealth.** Total tax is 13.5% tax._
 3. _**Economic Development**_
