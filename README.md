@@ -40,9 +40,12 @@
      _<mark style="color:green;">****</mark><mark style="color:blue;">2020 USA $1.65 trillion</mark>_
    *   <mark style="color:green;">2025</mark> Confederal Summary: <mark style="color:green;">$1.44 trillion 2025 TOTAL Income Tax Revenues</mark>
 
-       * 11.1% Income tax administered by each Parish.\
-         2.5% Zakat Parish Tax on wealth.\
-         Consumption tax is reinvested into Parish Development.
+       * 11.1% Income tax administered by each Parish.
+       * 2.5% Zakat Parish Tax on wealth.
+       * Consumption tax is reinvested into Parish Development.
+
+
+
        * Income Tax Distribution: <33.0% Parish; 22.1% State; 44.9% Confederal>
 
 
