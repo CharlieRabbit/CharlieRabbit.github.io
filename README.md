@@ -35,7 +35,22 @@
 #### &#x20;   (a) Parish Powers:
 
 1. _**Primary Taxation Authority**_
-   * _**\<Con/Federal tax comparion:** <mark style="color:blue;">2020 USA $1.65 trillion</mark>**;**** **<mark style="color:green;">**2025 USACR $1.44 trillion**</mark>**>**_
+   * _**Con/Federal tax comparison:**_ \
+     _****<mark style="color:green;">**2025 USACR $1.44 trillion**</mark>_\
+     _<mark style="color:green;">****</mark><mark style="color:blue;">2020 USA $1.65 trillion</mark>_
+   *   <mark style="color:green;">2025</mark> Confederal Summary: <mark style="color:green;">$1.44 trillion 2025 TOTAL Income Tax Revenues</mark>
+
+       * 11.1% Income tax administered by each Parish.\
+         2.5% Zakat Parish Tax on wealth.\
+         Consumption tax is reinvested into Parish Development.
+       * Income Tax Distribution: <33.0% Parish; 22.1% State; 44.9% Confederal>
+
+
+
+       33% •••> $476.2 billion = 52 States X $9.16 billion 2025 Parish Tax Revenue\
+       22.1% •••> $319.0 billion = 52 States X $6.137 billion 2025 State Tax Revenue. \
+       44.9% •••> $647.8 billion 2025 TOTAL USA Confederal Republic Tax Revenue.\
+
    * **$12.5 trillion 2020 total AGI**, in <**USA**>
    * $250 billion 2020 AGI per State, 50 States
    * **13.26%** average 2020 tax rate
