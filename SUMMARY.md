@@ -1,4 +1,4 @@
 # Table of contents
 
 * [🐰 Confederal Republic \<CR>](README.md)
-* [Proposed Amendments](proposed-amendments.md)
+* [7 Proposed Amendments](7-proposed-amendments.md)
