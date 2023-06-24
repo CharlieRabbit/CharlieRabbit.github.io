@@ -1,6 +1,6 @@
 # 7 Proposed Amendments
 
-#### Use Article V to amend the US Constitution.
+### Use Article V to amend the US Constitution.
 
 • 28: \<Tricameral Legislature> • House, Senate, Convention • Establish the Third Branch of the Legislature, the Quadrennial Convention of States, with both state and polity/laity representation, called to order every four years.&#x20;
 
