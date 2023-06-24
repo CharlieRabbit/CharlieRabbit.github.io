@@ -1,3 +1,7 @@
+---
+description: Neo-interventionist foreign policy, intervention by peers.
+---
+
 # 🐰 Tricameral Confederal Republic \<TCR>
 
 ••• Oh yeah… 𝙎𝙏𝙍𝙄𝘾𝙏𝙇𝙔 𝙉𝙊𝙉-𝙑𝙄𝙊𝙇𝙀𝙉𝙏! •••
@@ -51,7 +55,11 @@
 2. _**Interstate Commerce**_
 3. _**Military**_&#x20;
 
-### VI. Foreign Policy Objective: Spread through intervention&#x20;
+### VI. Foreign Policy Objective: Spread through intervention
+
+### Fuck Westphalia! We will NOT allow our neighbors to rape their children.
+
+### &#x20;
 
 #### &#x20;   (a) Humanitarian Just War Theory&#x20;
 
