@@ -2,6 +2,8 @@
 
 ## 7 Amendment Proposals:
 
+Use Article V to amend the US Constitution.
+
 • 28: • House, Senate, Convention • Establish the Third Branch of the Legislature, the Quadrennial Convention of States, with both state and polity/laity representation, called to order every four years.&#x20;
 
 • 29: Mandate a Judicial Ratification for all Legislation, ratified by one of a particular Tricameral Legislative Quorum within a level of government: House|Senate|Convention within Parish/State/Confederation. Id. Est. When a Senate sends a bill passed by them to the House, a Judicial Gate must ratify, prior to presentation of the bill to the House.&#x20;
