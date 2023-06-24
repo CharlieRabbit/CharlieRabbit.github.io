@@ -34,8 +34,8 @@
 
 1. _**Primary Taxation Authority**_
 2. _**Social Contract**_
-   * _**2.5% Zakat Tax on wealth.** Total tax is 13.5% tax,_ \
-     _excluding property taxation.._
+   * _**2.5% Zakat Tax on wealth.**_ \
+     _Total tax is 13.5% tax, excluding property taxation.._
 3. _**Economic Development**_
    * _Consumption tax is reinvested into Development._
 
