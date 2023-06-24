@@ -57,9 +57,8 @@ description: Neo-interventionist foreign policy, intervention by peers.
 
 ### VI. Foreign Policy Objective: Spread through intervention
 
-### Fuck Westphalia! We will NOT allow our neighbors to rape their children.
-
-### &#x20;
+&#x20;     Neo-interventionist foreign policy, intervention by peers. \
+&#x20;     Fuck Westphalia! We will NOT allow our neighbors to rape their children.
 
 #### &#x20;   (a) Humanitarian Just War Theory&#x20;
 
