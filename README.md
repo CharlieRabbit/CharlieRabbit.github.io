@@ -57,6 +57,6 @@
 
 #### &#x20;   (b) US Declaration of Independence [_\<Life, Liberty, Pursu_](#user-content-fn-1)[^1]it of Happiness>
 
-#### &#x20;   (c) Tricameral Confederal Republic \<TCR>
+#### &#x20;   (c) Tricameral Confederal Republic, intervention by peers \<TCR>
 
 [^1]: 
