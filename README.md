@@ -36,8 +36,8 @@
 
 1. _**Primary Taxation Authority**_
    * _**Con/Federal tax comparison:**_ \
-     _****<mark style="color:orange;">**2025 USACR $1.44 trillion**</mark>_\
-     _<mark style="color:green;">****</mark><mark style="color:blue;">2020 USA $1.65 trillion</mark>_
+     _<mark style="color:orange;">**2025 USACR $1.44 trillion**</mark>_\
+     _<mark style="color:blue;">2020 USA $1.65 trillion</mark>_
    *   <mark style="color:green;">2025</mark> Confederal Summary: <mark style="color:green;">$1.44 trillion 2025 TOTAL Income Tax Revenues</mark>
 
        * 11.1% Income tax administered by each Parish.
@@ -66,7 +66,7 @@
      **$18.6 billion 2025 State** Dues, 2/3rd Parish dues to the State, per State
    * <mark style="color:green;">**$6.137 billion**</mark>** 2025 **<mark style="color:green;">**State**</mark>** Tax Revenue**, 1/3rds revenue **retained** by each <mark style="color:green;">**State**</mark>.\
      **$12.46 billion** **2025** **Confederal** Dues, 2/3rd State Dues to **USA Confederal Republic**, per State
-   * _<mark style="color:purple;">**`$647.8 billion`**</mark>_ <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:orange;"><mark style="color:orange;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**2025**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**TOTAL USA Confederal Republic Dues**</mark><mark style="color:purple;"><mark style="color:orange;">.<mark style="color:orange;"></mark>
+   * _<mark style="color:purple;">**`$647.8 billion`**</mark>_ <mark style="color:purple;">**2025**</mark> <mark style="color:purple;">**TOTAL USA Confederal Republic Dues**</mark><mark style="color:purple;"><mark style="color:orange;">.<mark style="color:orange;"></mark>
 2. _**Social Contract**_
    * _**2.5% Zakat Tax on wealth.** Total tax is 13.5% tax._
 3. _**Economic Development**_
