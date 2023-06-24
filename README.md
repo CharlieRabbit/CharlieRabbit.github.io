@@ -1,8 +1,6 @@
-# 🐰 Confederal Republic \<CR>
+# 🐰 Tricameral Confederal Republic \<TCR>
 
 <figure><img src=".gitbook/assets/tri-tris.png" alt=""><figcaption><p>Trinity of Trinities</p></figcaption></figure>
-
-## ••• 𝙏𝙧𝙞𝙘𝙖𝙢𝙚𝙧𝙖𝙡 𝘾𝙤𝙣𝙛𝙚𝙙𝙚𝙧𝙖𝙡 𝙍𝙚𝙥𝙪𝙗𝙡𝙞𝙘 •••
 
 𝑺𝒄𝒂𝒍𝒆 𝒐𝒇 𝑱𝒖𝒔𝒕𝒊𝒄𝒆 <𝗦𝗼𝗰𝗶𝗮𝗹 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁, 𝗛𝗮𝗿𝗺 𝗣𝗿𝗶𝗻𝗰𝗶𝗽𝗹𝗲, 𝗙𝗿𝗲𝗲 𝗠𝗮𝗿𝗸𝗲𝘁𝘀>
 
